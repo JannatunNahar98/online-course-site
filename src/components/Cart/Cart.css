@@ -1,0 +1,12 @@
+.cart{
+    text-align: justify;
+    margin-top: 5px;
+    
+}
+.cart h4{
+    background-color: steelblue;
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+}

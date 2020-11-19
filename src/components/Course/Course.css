@@ -1,0 +1,19 @@
+.card{
+    margin: 10px; 
+    padding:10px; 
+}
+
+.col{
+    text-align: justify;
+}
+.card-footer{
+    margin: 10px;
+    padding: 10px;
+    text-align: justify;
+}
+.enroll,.price{
+    text-align: justify;
+}
+.name{
+    color:dodgerblue;
+}
